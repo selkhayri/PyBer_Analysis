@@ -23,13 +23,8 @@ jupyter nbconvert --to html PyBer_analysis.ipynb
 <td>
 <img src="pics/Summary_Data_Frame.PNG"/>
 </td>
-<td>
-*
-</td>
 </tr>
 </table>
-
-###### * Graph was retrieved from <a href="https://github.com/selkhayri/PyBer_Analysis/docs/PyBer_analysis.html">PyBer_analysis.html</a> since the jupyter notebook, <a href="https://github.com/selkhayri/PyBer_Analysis/blob/master/PyBer_analysis.ipynb">PyBer_analysis.ipynb</a>, did not render the Summary Data Frame table correctly on github.
 
 #### Analysis
 
