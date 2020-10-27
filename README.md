@@ -11,9 +11,9 @@ This analysis aims to generate the following items:
 
 The challenges there were encountered were the following:
 
-* The Summary Data Frame displayed correctly in the local environment. However, when the PyBer_challenge.ipynb file was uploaded to github, the display was incorrect. After multiple attempts for remedy the situation, I found out the nbconvert option of the jupyter command. I used the following command to create the PyBer_challenge.html file and uploaded that to the docs folder: 
+* The Summary Data Frame displayed correctly in the local environment. However, when the PyBer_analysis.ipynb file was uploaded to github, the display was incorrect. After multiple attempts for remedy the situation, I found out the nbconvert option of the jupyter command. I used the following command to create the PyBer_analysis.html file and uploaded that to the docs folder: 
 
-jupyter nbconvert --to html PyBer_challenge.ipynb
+jupyter nbconvert --to html PyBer_analysis.ipynb
 
 ## Summary Data Frame
 
@@ -29,7 +29,7 @@ jupyter nbconvert --to html PyBer_challenge.ipynb
 </tr>
 </table>
 
-###### * Graph was retrieved from <a href="https://selkhayri.github.io/PyBer_Analysis/PyBer_challenge.html">PyBer_challenge.html</a> since the jupyter notebook, <a href="https://github.com/selkhayri/PyBer_Analysis/blob/master/PyBer_challenge.ipynb">PyBer_challenge.ipynb</a>, did not render the Summary Data Frame table correctly on github.
+###### * Graph was retrieved from <a href="https://selkhayri.github.io/PyBer_Analysis/PyBer_analysis.html">PyBer_analysis.html</a> since the jupyter notebook, <a href="https://github.com/selkhayri/PyBer_Analysis/blob/master/PyBer_analysis.ipynb">PyBer_analysis.ipynb</a>, did not render the Summary Data Frame table correctly on github.
 
 #### Analysis
 
